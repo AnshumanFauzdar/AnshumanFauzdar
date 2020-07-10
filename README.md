@@ -1,16 +1,13 @@
-### Hi there 👋
+<center><img src="https://i.imgur.com/IjxKlOy.gif" alt="bio"></center>
 
-<!--
-**AnshumanFauzdar/AnshumanFauzdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Machine Vision Projects!
+- 🌱 I’m currently learning openCV and Nodejs
+- 👯 I’m looking to collaborate on robotics/automation
+- 🤔 I’m looking for help with backend!
+- 💬 Ask me about embedded engineering
+- 📫 fauzdaranshuman@gmail.com
+- ⚡ Hit me up on [twitter](https://twitter.com/anshumanfauzdar) to discuss on robotics!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center><img src="https://github-readme-stats.vercel.app/api?username=anshumanfauzdar&show_icons=true" alt="Stats"></center>
