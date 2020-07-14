@@ -10,4 +10,4 @@
 - 📫 fauzdaranshuman@gmail.com
 - ⚡ Hit me up on [twitter](https://twitter.com/anshumanfauzdar) to discuss on robotics!
 
-<center><img src="https://github-readme-stats.vercel.app/api?username=anshumanfauzdar&show_icons=true" alt="Stats"></center>
+<center><img src="https://github-readme-stats.vercel.app/api/?username=AnshumanFauzdar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Stats"></center>
