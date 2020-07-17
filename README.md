@@ -1,4 +1,6 @@
-<center><img src="https://i.imgur.com/IjxKlOy.gif" alt="bio"></center>
+<p align="center">
+  <img src="https://i.imgur.com/IjxKlOy.gif" alt="bio"></center>
+</p>
 
 ## Hi there 👋
 
