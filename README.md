@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/IjxKlOy.gif" alt="bio"></center>
+  <img src="https://user-images.githubusercontent.com/40523329/125062921-88eb3c00-e0cc-11eb-9d2a-f490ed2741ad.gif" alt="bio"></center>
 </p>
 
 ## Hi there 👋
