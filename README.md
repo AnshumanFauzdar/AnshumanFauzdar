@@ -13,3 +13,7 @@
 - 💬 Ask me about embedded engineering
 - 📫 fauzdaranshuman@gmail.com
 - ⚡ Hit me up on [twitter](https://twitter.com/anshumanfauzdar) to discuss on robotics!
+
+<p align="center">
+  <img src="https://github.com/AnshumanFauzdar/AnshumanFauzdar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
