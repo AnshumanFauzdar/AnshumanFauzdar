@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/40523329/125062921-88eb3c00-e0cc-11eb-9d2a-f490ed2741ad.gif" alt="bio"></center>
 </p>
 
-## Hi there 👋
+## HEY EVERYONE THERE 👋
 
 <img src="https://github-readme-stats.vercel.app/api/?username=AnshumanFauzdar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Stats" align="right">
 
