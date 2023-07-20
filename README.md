@@ -15,5 +15,9 @@
 - ⚡ Hit me up on [twitter](https://twitter.com/anshumanfauzdar) to discuss on robotics!
 
 <p align="center">
-  <img src="https://github.com/AnshumanFauzdar/AnshumanFauzdar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnshumanFauzdar/AnshumanFauzdar/raw/output/github-snake-dark.svg?palette=github-dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AnshumanFauzdar/AnshumanFauzdar/raw/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </p>
