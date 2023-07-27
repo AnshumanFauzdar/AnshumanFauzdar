@@ -1,8 +1,8 @@
 name: Generate Snake
-'on':
+on:
   schedule:
     - cron: 0 */24 * * *
-workflow_dispatch: null
+  workflow_dispatch: null
 jobs:
   build:
     runs-on: ubuntu-latest
