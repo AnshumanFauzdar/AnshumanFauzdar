@@ -4,7 +4,17 @@
 
 ## Hi there 👋
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=AnshumanFauzdar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Stats" align="right">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anshumanfauzdar&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anshumanfauzdar&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshumanfauzdar&show_icons=true" align="right"/>
+</picture>
 
 - 🔭 I’m currently working on Machine Vision Projects!
 - 🌱 I’m currently learning openCV
